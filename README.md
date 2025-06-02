@@ -7,12 +7,11 @@ To learn and implement classification models using Decision Trees and Random For
 Programming Language: Python
 
 Libraries:
-
-    scikit-learn (for model building)
-    
-    matplotlib, seaborn (for plotting and visualization)
-    
-    Graphviz or sklearn.tree.plot_tree (for visualizing the decision tree)
+          scikit-learn (for model building)
+          
+          matplotlib, seaborn (for plotting and visualization)
+          
+          Graphviz or sklearn.tree.plot_tree (for visualizing the decision tree)
 
  Step-by-Step Tasks:
 1. Train a Decision Tree Classifier:
